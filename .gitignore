@@ -1,0 +1,19 @@
+Objects/
+Listings/
+
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.uvguix.*
+*.bak
+# Keil user files
+*.uvoptx
+*.dbgconf
+DebugConfig/
+# Proteus workspace
+*.workspace
+# Proteus backups
+Project Backups/
